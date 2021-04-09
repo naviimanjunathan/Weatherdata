@@ -1,0 +1,32 @@
+City= Chennai
+ Temperature (in kelvin unit) = 302.15
+ atmospheric pressure (in hPa unit) = 1007
+ humidity (in percentage) = 58
+ description = few clouds
+
+
+
+City= Namakkal
+ Temperature (in kelvin unit) = 306.66
+ atmospheric pressure (in hPa unit) = 1006
+ humidity (in percentage) = 23
+ description = overcast clouds
+
+City= Kenya
+ Temperature (in kelvin unit) = 305.78
+ atmospheric pressure (in hPa unit) = 1005
+ humidity (in percentage) = 34
+ description = overcast clouds
+
+City= Bangalore
+ Temperature (in kelvin unit) = 305.14
+ atmospheric pressure (in hPa unit) = 1010
+ humidity (in percentage) = 19
+ description = few clouds
+
+City= Hyderabad
+ Temperature (in kelvin unit) = 304.24
+ atmospheric pressure (in hPa unit) = 1010
+ humidity (in percentage) = 42
+ description = broken clouds
+
